@@ -1,4 +1,4 @@
-# 🌟 FinanZas: Gerenciador Financeiro Pessoal Completo
+# 🌟 FinanZas: Gerenciador Financeiro Pessoal
 
 Este repositório centraliza o desenvolvimento do projeto **FinanZas**, uma solução completa para gestão de finanças pessoais, composta por um frontend web moderno, um backend robusto em Java e um bot de WhatsApp para registro rápido de transações.
 
